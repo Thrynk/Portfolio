@@ -1,13 +1,12 @@
 ---
 date: 2020-10-05T00:00:00-00:00
-description: "Pierre Gringoire"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: []
-title: "Project II : Web application for reconditioning after surgery"
+description: "Web platform to help patients that had surgery to do physical and psychosocial exercises to heal faster and better"
+featured_image: "/images/corpps.JPG"
+tags: ["Health", "Web", "React", "Node", "API"]
+title: "Project II : Web application for patients' reconditioning after surgery"
 ---
 
-Nevertheless, as be harangued them, the satisfaction and admiration
-unanimously excited by his costume were dissipated by his words; and when
-he reached that untoward conclusion: “As soon as his illustrious eminence,
-the cardinal, arrives, we will begin,” his voice was drowned in a thunder
-of hooting.
+In this personal project, I developed a web application that help patients that had surgery to recover.
+They can do physical and psychosocial exercises to maintain a physical condition and keep their brain active.
+
+This project is private, the code isn't accessible. But I had the autorization to do a little demo in video :

@@ -34,3 +34,5 @@ We handled NA values by dropping records where missing values were essential for
 In conclusion, with more time to research really important features, with more time to do exploratory analysis and statistics tests to evaluate our features, we could expect to improve our model.
 We were a little bit "disappointed" not by our work but by the results, but **we will definitely come back on this study**, with more knowledge (we are starting a major in Data Science) and with more time to create a good model, and study its return on investment.
 
+[Link to the github repository](https://github.com/Thrynk/Tennis-prediction)
+

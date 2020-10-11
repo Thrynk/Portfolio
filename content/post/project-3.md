@@ -1,13 +1,14 @@
 ---
-date: 2020-10-11T00:00:00-00:00
+date: 2020-10-07T00:00:00-00:00
 description: "Project to build an AI that plays dots and boxes"
 featured_image: "/images/dotsandboxes.png"
 tags: ["Reinforcement learning", "Dots and Boxes"]
 title: "Project III : Dots and Boxes AI"
 ---
 
-Nevertheless, as be harangued them, the satisfaction and admiration
-unanimously excited by his costume were dissipated by his words; and when
-he reached that untoward conclusion: “As soon as his illustrious eminence,
-the cardinal, arrives, we will begin,” his voice was drowned in a thunder
-of hooting.
+In this school project, we have to program an AI playing the game Dots and Boxes.
+Our AI will be evaluated in a tournament where all the AI of the class are attending.
+
+I'm currently programming a handmade algorithm, and after that I will train a Reinforcement Learning AI against my algorithm.
+
+There is not much content now, because I just started the project. But I will update this project page during the project, so stay in touch !
