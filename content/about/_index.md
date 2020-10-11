@@ -1,8 +1,18 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+title: "About me"
+description: "Hi ! I'm Thomas CARIN. I'm studying Data Science."
+featured_image: '/images/about.jpg'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/CV.jpg" title="CARIN Thomas" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Data Science and Computer Science are my passion. My name is Thomas and I've been studying computer science since 2017, but was interested in this field since I'm 14.
+
+I love learning, I'm a curious person and don't want to let anything to chance. I love doing personal projects related to my field. And I decided to dig more deeper in Data since the end of the previous school year.
+
+I'm really fascinated by what we can learn from Data, and I'm convinced that Data is the current revolution and I want to be part of it.
+
+I'm coming from a Computer Science background, and I always loved Mathematics. I'm really happy that I have found the perfect field where I can mix both.
+
+If you think I can be a valuable asset for your company, I would love to talk more with you, you can contact me on [LinkedIn](https://www.linkedin.com/in/thomas-carin-843691151/) or via email : **thomas.carin@isen.yncrea.fr**
+
+I also love sport. I'm currently doing street workout and I played tennis during 7 years.

@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/notebook.jpg"
+featured_image: "images/about.jpg"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
@@ -8,7 +8,11 @@ menu: main
 
 ---
 
+If you think I can be a valuable asset for your company or have some insight for my projects.
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+I would love to talk more with you, you can contact me on :
 
-{{< form-contact action="https://example.com"  >}}
+| Plateform : | Link |
+| ---- | ----|
+| LinkedIn : | https://www.linkedin.com/in/thomas-carin-843691151/ |
+| Email : | thomas.carin@isen.yncrea.fr |
