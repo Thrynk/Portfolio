@@ -1,5 +1,5 @@
 title = "CARIN Thomas"
-baseURL = "https://example.com"
+baseURL = "https://thrynk.github.io/Portfolio/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+canonifyURLs = true
 
 [sitemap]
   changefreq = "monthly"
