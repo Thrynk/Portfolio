@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logistic Regression on CARIN Thomas</title>
+    <link>https://thrynk.github.io/Portfolio/tags/logistic-regression/</link>
+    <description>Recent content in Logistic Regression on CARIN Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thrynk.github.io/Portfolio/tags/logistic-regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I : Tennis Prediction</title>
+      <link>https://thrynk.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thrynk.github.io/Portfolio/post/project-1/</guid>
+      <description>This is my first project in Data Science. I&amp;rsquo;m a fan of tennis, after practicing during 7 years. I missed the court. What could be more interesting than studying Data Science with a little bit of nostalgia. We tried to answer : Can tennis outcomes be predicted thanks to data available on the internet ?
+I did this project with a friend of mine : Florian DECONINCK, we had 3 weeks to do the analysis and create a dashboard on a website to see latest tweets regarding tennis, see different results of tennis matches and link our predictions to it.</description>
+    </item>
+    
+  </channel>
+</rss>
