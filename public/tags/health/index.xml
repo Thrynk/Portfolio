@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on CARIN Thomas</title>
+    <link>https://thrynk.github.io/Portfolio/tags/health/</link>
+    <description>Recent content in Health on CARIN Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thrynk.github.io/Portfolio/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II : Web application for patients&#39; reconditioning after surgery</title>
+      <link>https://thrynk.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thrynk.github.io/Portfolio/post/project-2/</guid>
+      <description>In this personal project, I developed a web application that help patients that had surgery to recover. They can do physical and psychosocial exercises to maintain a physical condition and keep their brain active.
+This project is private, the code isn&amp;rsquo;t accessible. But I had the autorization to do a little demo in video :</description>
+    </item>
+    
+  </channel>
+</rss>

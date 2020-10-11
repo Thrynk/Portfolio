@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement learning on CARIN Thomas</title>
+    <link>https://thrynk.github.io/Portfolio/tags/reinforcement-learning/</link>
+    <description>Recent content in Reinforcement learning on CARIN Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thrynk.github.io/Portfolio/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III : Dots and Boxes AI</title>
+      <link>https://thrynk.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thrynk.github.io/Portfolio/post/project-3/</guid>
+      <description>In this school project, we have to program an AI playing the game Dots and Boxes. Our AI will be evaluated in a tournament where all the AI of the class are attending.
+I&amp;rsquo;m currently programming a handmade algorithm, and after that I will train a Reinforcement Learning AI against my algorithm.
+There is not much content now, because I just started the project. But I will update this project page during the project, so stay in touch !</description>
+    </item>
+    
+  </channel>
+</rss>
