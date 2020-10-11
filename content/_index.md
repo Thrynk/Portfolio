@@ -1,6 +1,6 @@
 ---
 title: "Project Portfolio"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+featured_image: '/images/home.jpg'
+description: "Hi ! I'm Thomas CARIN. Student in 1st year of a Master's degree in Big Data. Welcome to my project portfolio."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+I started my major in Data Science in September 2020. I was already interested in this field half a year before, when I started to study on my own with a Tennis Prediction project.
