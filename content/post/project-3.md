@@ -1,14 +1,13 @@
 ---
-date: 2020-10-07T00:00:00-00:00
-description: "Project to build an AI that plays dots and boxes"
-featured_image: "/images/dotsandboxes.png"
-tags: ["Reinforcement learning", "Dots and Boxes"]
-title: "Project III : Dots and Boxes AI"
+date: 2020-10-11T00:00:00-00:00
+description: "Project to build a Deep Learning AI that recognize if human has a safety mask or not, and if this mask is well placed"
+featured_image: "/images/masked-person.jpg"
+tags: ["Deep Learning", "Covid", "Safety Mask"]
+title: "Project IV : Masked recognition AI"
 ---
 
-In this school project, we have to program an AI playing the game Dots and Boxes.
-Our AI will be evaluated in a tournament where all the AI of the class are attending.
+In this school project, we are a team of 5 students, and we are challenged to program an AI that will understand thanks to a photo if a human is wearing a safety mask or not, but also if this safety mask is well-worn
 
-I'm currently programming a handmade algorithm, and after that I will train a Reinforcement Learning AI against my algorithm.
+This project will help me discover Neural Networks, and Computer Vision.
 
-There is not much content now, because I just started the project. But I will update this project page during the project, so stay in touch !
+There is not much content now, because we just started the project. But I will update this project page during the project, so stay in touch !
