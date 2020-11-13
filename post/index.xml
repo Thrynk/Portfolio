@@ -8,25 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://thrynk.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project IV : Masked recognition AI</title>
-      <link>https://thrynk.github.io/Portfolio/post/project-4/</link>
+      <title>Project III : Masked recognition AI</title>
+      <link>https://thrynk.github.io/Portfolio/post/project-3/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thrynk.github.io/Portfolio/post/project-4/</guid>
+      <guid>https://thrynk.github.io/Portfolio/post/project-3/</guid>
       <description>In this school project, we are a team of 5 students, and we are challenged to program an AI that will understand thanks to a photo if a human is wearing a safety mask or not, but also if this safety mask is well-worn
 This project will help me discover Neural Networks, and Computer Vision.
-There is not much content now, because we just started the project. But I will update this project page during the project, so stay in touch !</description>
-    </item>
-    
-    <item>
-      <title>Project III : Dots and Boxes AI</title>
-      <link>https://thrynk.github.io/Portfolio/post/project-3/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://thrynk.github.io/Portfolio/post/project-3/</guid>
-      <description>In this school project, we have to program an AI playing the game Dots and Boxes. Our AI will be evaluated in a tournament where all the AI of the class are attending.
-I&amp;rsquo;m currently programming a handmade algorithm, and after that I will train a Reinforcement Learning AI against my algorithm.
-There is not much content now, because I just started the project. But I will update this project page during the project, so stay in touch !</description>
+MaskProject Introduction The health crisis of COVID-19 (known as Coronavirus) striking the whole world, forced everybody to wear a mask.</description>
     </item>
     
     <item>

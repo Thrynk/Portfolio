@@ -17,7 +17,7 @@
   </url>
   
   <url>
-    <loc>https://thrynk.github.io/Portfolio/post/project-4/</loc>
+    <loc>https://thrynk.github.io/Portfolio/post/project-3/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -40,27 +40,6 @@
   <url>
     <loc>https://thrynk.github.io/Portfolio/tags/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://thrynk.github.io/Portfolio/tags/dots-and-boxes/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://thrynk.github.io/Portfolio/post/project-3/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://thrynk.github.io/Portfolio/tags/reinforcement-learning/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
