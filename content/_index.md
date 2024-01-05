@@ -1,6 +1,6 @@
 ---
 title: "Project Portfolio"
 featured_image: '/images/home.jpg'
-description: "Hi ! I'm Thomas CARIN. Student in 1st year of a Master's degree in Big Data. Welcome to my project portfolio."
+description: "Hi ! I'm Thomas CARIN, a dedicated Data Scientist and Data Engineer with a specialization in Supply Chain Optimization. While my expertise lies in this domain, I am also enthusiastic about applying my knowledge to diverse fields."
 ---
-I started my major in Data Science in September 2020. I was already interested in this field half a year before, when I started to study on my own with a Tennis Prediction project.
+With a strong foundation in data science and engineering, I bring a unique set of skills to the table. From predictive analytics and machine learning to robust data pipelines, I thrive on leveraging data to drive insights and improvements in companies.

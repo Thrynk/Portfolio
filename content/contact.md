@@ -15,4 +15,4 @@ I would love to talk more with you, you can contact me on :
 | Plateform : | Link |
 | ---- | ----|
 | LinkedIn : | https://www.linkedin.com/in/thomas-carin-843691151/ |
-| Email : | thomas.carin@isen.yncrea.fr |
+| Email : | thocarin@gmail.com |

@@ -3,7 +3,7 @@ date: 2020-06-10T00:00:00-00:00
 description: "Tennis Prediction"
 featured_image: "/images/tennis.jpg"
 tags: ["Tennis", "Logistic Regression"]
-title: "Project I : Tennis Prediction"
+title: "2020-06 : Tennis Prediction"
 ---
 
 This is my first project in Data Science. I'm a fan of tennis, after practicing during 7 years. I missed the court.
@@ -32,7 +32,6 @@ We handled NA values by dropping records where missing values were essential for
 ![Confusion matrix](/images/confusion_matrix.JPG)
 
 In conclusion, with more time to research really important features, with more time to do exploratory analysis and statistics tests to evaluate our features, we could expect to improve our model.
-We were a little bit "disappointed" not by our work but by the results, but **we will definitely come back on this study**, with more knowledge (we are starting a major in Data Science) and with more time to create a good model, and study its return on investment.
 
 [Link to the github repository](https://github.com/Thrynk/Tennis-prediction)
 

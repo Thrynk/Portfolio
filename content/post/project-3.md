@@ -3,7 +3,7 @@ date: 2020-10-11T00:00:00-00:00
 description: "Project to build a Deep Learning AI that recognize if human has a safety mask or not, and if this mask is well placed"
 featured_image: "/images/masked-person.jpg"
 tags: ["Deep Learning", "Covid", "Safety Mask"]
-title: "Project III : Masked recognition AI"
+title: "2020-10 : Masked recognition AI"
 ---
 
 In this school project, we are a team of 5 students, and we are challenged to program an AI that will understand thanks to a photo if a human is wearing a safety mask or not, but also if this safety mask is well-worn
@@ -54,11 +54,17 @@ We will compose different teams to test different transfer learning models :
 - VGG16 : Thrynk
 - VGG19 : romainmeunier93 and FlonyxSly
 
-If the results are not as good as expected, we will change our model for another approach. 
-
-
 ## Preprocessing
 We resized the images from 1024x1024 to 224x224 thanks to OpenCV, you can find our new dataset on [OneDrive](https://yncrea.sharepoint.com/:f:/r/sites/ProjetMasque/Documents%20partages/General/ResizedDataset?csf=1&web=1&e=7AEn3n). We chose this size in order to respect the input size of our different architectures. 
 
 There is not much content now, because we just started the project. But I will update this project page during the project, so stay in touch !
-[Link to the Github Repository](https://github.com/romainmeunier93/MaskProject)
+
+[Link to the Github Repository](https://github.com/romainmeunier93/MaskProject/tree/vgg16)
+
+## Results
+
+The winning model is the vgg16 based on confusion matrices from each model.
+
+Here is our final product demo (in French) :
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6769545304338427904" height="1094" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

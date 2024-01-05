@@ -5,14 +5,14 @@ featured_image: '/images/about.jpg'
 ---
 {{< figure src="/images/CV.jpg" title="CARIN Thomas" >}}
 
-Data Science and Computer Science are my passion. My name is Thomas and I've been studying computer science since 2017, but was interested in this field since I'm 14.
+Passionate about Data Science and Computer Science, I'm Thomas, dedicated to exploring these realms since 2017, with a keen interest that sparked at the age of 14.
 
-I love learning, I'm a curious person and don't want to let anything to chance. I love doing personal projects related to my field. And I decided to dig more deeper in Data since the end of the previous school year.
+Driven by a love for learning and an insatiable curiosity, I leave nothing to chance in my quest for knowledge. Engaging in personal projects within my field, I delved even deeper into Data Science at the end of 2021.
 
-I'm really fascinated by what we can learn from Data, and I'm convinced that Data is the current revolution and I want to be part of it.
+The profound insights we can extract from data fascinate me, and I firmly believe that the current revolution revolves around Data. I am eager to contribute to it. 
 
-I'm coming from a Computer Science background, and I always loved Mathematics. I'm really happy that I have found the perfect field where I can mix both.
+Coming from a Computer Science background, my affinity for Mathematics finds its perfect synergy in this field.
 
-If you think I can be a valuable asset for your company, I would love to talk more with you, you can contact me on [LinkedIn](https://www.linkedin.com/in/thomas-carin-843691151/) or via email : **thomas.carin@isen.yncrea.fr**
+Convinced that I can bring value to your company, I would be delighted to discuss further. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/thomas-carin-843691151/) or via email : **thocarin@gmail.com**
 
-I also love sport. I'm currently doing street workout and I played tennis during 7 years.
+Beyond my professional pursuits, I am also passionate about sports, currently engaged in climbing, and boasting a seven-year history of playing tennis.
