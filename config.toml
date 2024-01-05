@@ -5,11 +5,28 @@ theme = "ananke"
 #themesDir = "../.."
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
 Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 canonifyURLs = true
+
+[menus]
+  [[menus.main]]
+    name = 'About Me'
+    url = '/about'
+    weight = 10
+  [[menus.main]]
+    name = 'Projects'
+    url = '/post'
+    weight = 20
+  [[menus.main]]
+    name = 'Contact'
+    url = '/contact'
+    weight = 30
+  [[menus.main]]
+    name = 'Client Testimonials'
+    url = '/testimonials'
+    weight = 40
 
 [sitemap]
   changefreq = "monthly"
